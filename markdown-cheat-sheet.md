@@ -1,3 +1,5 @@
+[ 🏠 Home ](https://static-generator.github.io/)
+---
 # Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
@@ -99,21 +101,7 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+      
+---
+[ 🏠 Home ](https://static-generator.github.io/)
 
-### Emoji
-
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
