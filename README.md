@@ -8,4 +8,4 @@ Welcome to static-generator.github.io
 - 📫 You can take a look at my other [static site](https://sirgain.droppages.com) which I created within dropbox.
 - ⚡ Github pages is using the Jekyll static site generator using the Markdown code.
 
-[Markdown example](markdown.md)
+[Markdown example](markdown-cheat-sheet.md)
