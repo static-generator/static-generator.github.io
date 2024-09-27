@@ -17,3 +17,5 @@ Welcome to static-generator.github.io
 - 💞️ [Markdown example](markdown-cheat-sheet.md)
 
 ![](https://jptacek.com/2015/01/moving-docpad-to-github-pages/githubpages.jpg)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5h8G9staxe6l3dSb8CKU08?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
